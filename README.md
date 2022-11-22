@@ -1,16 +1,19 @@
-### Hi there 👋
+Yo! I'm Felipe Borges
 
-<!--
-**F3lipeB0rges/F3lipeB0rges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a Computer Science Student at Federal University of Roraima
+- 💻 Currently learning some programming languages and getting interested in Software Engineering
+- 😄 Pronouns: One/Piece (Joke!)
+- 🎮 I currently play Valorant and Rocket League!
 
-Here are some ideas to get you started:
+Contact Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://instagram.com/eae_flipi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23B92B27?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/f3ripe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipersousab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div> 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lipe-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lipe-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
