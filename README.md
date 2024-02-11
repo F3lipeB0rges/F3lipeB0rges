@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Computer Science Student at Federal University of Roraima
 - 💻 Currently learning some programming languages and getting interested in Software Engineering
-- 😄 Pronouns: One/Piece (Joke!)
+- 😄 Pronouns: One/Piece
 - 🎮 I currently play Valorant and Rocket League!
 
 ### Contact Me:
