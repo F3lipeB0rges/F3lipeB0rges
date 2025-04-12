@@ -1,4 +1,4 @@
-## Yo! I'm Felipe Borges
+## Eai! I'm Felipe Borges
 
 - 🔭 I’m a Computer Science Student at Federal University of Roraima
 - 💻 Currently learning some programming languages and getting interested in Dev Mobile
